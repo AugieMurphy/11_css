@@ -1,0 +1,59 @@
+h1, #head1 {
+    text-align: center;
+    font: 80px georgia, serif;
+    color: #ffcc00;
+    text-shadow: 0 0 160px Green;
+}
+
+h2 {
+    text-align: center;
+    color: Red;
+    font: 40px arial, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font: 40px arial, sans-serif;
+    font-style: italic;
+}
+
+ul , li{
+    color = LightGreen;
+}
+
+a {
+    color = LightGreen;
+}
+
+body {
+    background: linear-gradient(white,blue,black);
+    font: 20px verdana, sans-serif;
+    color: MintCream;
+    padding: 50px;
+}
+
+div {
+    background-color: rgba(104, 104, 104, 0.3);
+    color: white;
+}
+
+.extreme {
+    font: 10px Verdana;
+}
+
+.navzone {
+    color: lightGreen;
+}
+
+#tehlulz {
+    color: lightGreen;
+}
+
+.content {
+    border: 2px solid red;
+    padding: 20px;
+}
+
+.prose {
+    font-style: italic;
+}
